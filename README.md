@@ -1,2 +1,3 @@
-# 自己的权限验证框架
-### 等等
+## 权限校验注解说明
+1、实现接口com.security.securityframework.sky.service.ISkySecurity
+2、
