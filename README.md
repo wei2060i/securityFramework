@@ -7,5 +7,5 @@
 * roleListOnlyOne  角色白名单,拥有任一角色的人,可以访问
 * roleListExclude  角色黑名单,拥有其中一个,就不能访问  
 
-5、@SkyPermissionSecurity 功能同角色。
+5、@SkyPermissionSecurity 功能同角色。  
 6、yml配置token参数
