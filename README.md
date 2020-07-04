@@ -8,4 +8,5 @@
 * roleListExclude  角色黑名单,拥有其中一个,就不能访问  
 
 5、@SkyPermissionSecurity 功能同角色。  
-6、yml配置token参数
+6、yml配置token参数  
+7、com.security.securityframework.config 全局异常处理
